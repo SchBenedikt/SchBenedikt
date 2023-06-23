@@ -9,5 +9,9 @@
 SchBenedikt/SchBenedikt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-## My GitHub Website:
+## my gitHub website
 https://schbenedikt.github.io
+
+## my text-edior
+https://schbenedikt.github.io/Text-Editor/
+
