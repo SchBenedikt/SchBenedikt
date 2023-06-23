@@ -12,6 +12,6 @@ You can click the Preview link to take a look at your changes.
 ## my gitHub website
 https://schbenedikt.github.io
 
-## my text-edior
+## my text-editor
 https://schbenedikt.github.io/Text-Editor/
 
