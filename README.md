@@ -1,4 +1,4 @@
-# hi. nice to meet you
+# hi. nice to see you
 - 👋 Hi, I’m @SchBenedikt
 - 👀 I’m interested in programming & open source softwares
 - 🌱 I’m currently learning how to program a python browser
