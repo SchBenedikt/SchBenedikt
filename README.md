@@ -10,7 +10,8 @@ SchBenedikt/SchBenedikt is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 ## my gitHub website
-https://schbenedikt.github.io
+https://schbenedikt.github.io and <br>
+https://schbenedikt.github.io/modern-website/
 
 ## my text-editor
 https://schbenedikt.github.io/Text-Editor/
