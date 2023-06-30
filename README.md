@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 --->
 ## my gitHub website
 https://schbenedikt.github.io and <br>
-https://schbenedikt.github.io/modern-website/
+https://schbenedikt.github.io/Modern-Website/
 
 ## my text-editor
 https://schbenedikt.github.io/Text-Editor/
