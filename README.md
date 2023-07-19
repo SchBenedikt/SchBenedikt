@@ -10,9 +10,10 @@ SchBenedikt/SchBenedikt is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 ## my gitHub website
-https://schbenedikt.github.io and <br>
-https://schbenedikt.github.io/Modern-Website/
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=schBenedikt&repo=schbenedikt.github.io)](https://github.com/schbenedikt/schbenedikt.github.io)
 
-## my text-editor
-https://schbenedikt.github.io/Text-Editor/
+## Profile Stats 📈:
 
+<p><img align="center" src="https://readmestats.999857.xyz/api/top-langs?username=schBenedikt&show_icons=true&locale=de&layout=donut" alt="schBenedikt" /></p>
+
+<p>&nbsp;<img align="center" src="https://readmestats.999857.xyz/api?username=schBenedikt&show_icons=true&locale=de" alt="schBenedikt" /></p>
