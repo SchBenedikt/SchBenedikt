@@ -1,4 +1,6 @@
 # hi. nice to see you
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=schBenedikt&label=Profile%20views&color=0e75b6&style=flat" alt="laansdole" /> </p>
+
 - 👋 Hi, I’m @SchBenedikt
 - 👀 I’m interested in programming & open source softwares
 - 🌱 I’m currently learning how to program a text editor
