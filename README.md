@@ -3,8 +3,6 @@
 
 - 👋 Hi, I’m @SchBenedikt
 - 👀 I’m interested in programming & open source softwares
-- 🌱 I’m currently learning how to program a text editor
-- 💞️ I’m looking to collaborate on a own Cloud like NextCloud
 - 📫 I can be reached via our website.
 
 <!---
